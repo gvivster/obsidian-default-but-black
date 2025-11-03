@@ -3,7 +3,7 @@
 
 As someone who spends way too much time looking at screens in dark conditions, I've gotten excited a few times about themes and plugins that let you make your UI background completely, uncompromisingly black. Everywhere. Invariably, though, there's been something about every solution that's gotten on my nerves and I then have to figure out how to turn off.
 
-Well, I finally broke.
+Well, friends, I finally broke.
 
 Enter Default But Black!
 
