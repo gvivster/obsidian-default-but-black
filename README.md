@@ -1,0 +1,1 @@
+# obsidian-default-but-black
