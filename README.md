@@ -1,9 +1,9 @@
 # Default, but Black
 — *a theme (in the loosest sense of the term) for Obsidian* —
 
-As someone who spends way too much time looking at screens in dark conditions, I've gotten excited a few times about themes and plugins that let you make your UI background completely black everywhere. Invariably, though, there's been something about every solution that's gotten on my nerves and I then have to figure out how to turn off.
+As someone who spends way too much time looking at screens in dark conditions, I've gotten excited a few times about themes and plugins that let you make your UI background completely, uncompromisingly black. Everywhere. Invariably, though, there's been something about every solution that's gotten on my nerves and I then have to figure out how to turn off.
 
-And I finally broke.
+Well, I finally broke.
 
 Enter Default But Black!
 
